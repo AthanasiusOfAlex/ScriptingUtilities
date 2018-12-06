@@ -1,3 +1,3 @@
 # ScriptingUtilities
 
-A description of this package.
+For the moment, this is just a partial clone of the project, with some customizations: https://github.com/tingraldi/SwiftScripting
